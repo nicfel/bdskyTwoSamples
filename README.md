@@ -1,3 +1,6 @@
+# BDSKY that conditions on 2 samples
+- This is an adapted version of bdsky that conditions on 2 samples instead of 1
+
 # bdsky - Birth Death Serial Skyline Model for BEAST2
 
 <!--[![Build Status](https://travis-ci.org/BEAST2-Dev/bdsky.svg?branch=master)](https://travis-ci.org/BEAST2-Dev/bdsky)-->
